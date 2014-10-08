@@ -2,6 +2,7 @@ apply plugin: 'java'
 apply plugin: 'maven'
 
 version = '1.0.0-SNAPSHOT'
+group = 'com.github.fbdo.geomodel'
 
 repositories {
     mavenCentral()
